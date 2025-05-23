@@ -12,7 +12,7 @@ traceback_install(theme="fruity")
 
 
 class DownDetector:
-    BASE_URL = "https://downdetector.com/status"
+    BASE_URL = "https://downdetector.com.br/status/"
     COMPANY_PATTERN = re.compile(r"company: '(.*?)'")
     STATUS_PATTERN = re.compile(r"title'>\s*(.*?)\s*<")
     PERCENTAGE_PATTERN = re.compile(r"Chart_percentage'>\s*(\d+)%\s*<")
