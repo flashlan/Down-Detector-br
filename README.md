@@ -2,6 +2,7 @@
 
 <img src="assets/logo.png" width="250" height="auto">
 
+
 **Down-Detector-br** provê monitoramento de serviços em tempo real através do site [downdetector.com.br](https://downdetector.com.br/).
 
 <img src="assets/terminal.png" width="700" height="auto">
