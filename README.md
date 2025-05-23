@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" width="250" height="auto">
 
-**Down-Detector** provides real-time problem & outage monitoring.
+**Down-Detector-br** provê monitoramento de serviços em tempo real através do site [downdetector.com.br](https://downdetector.com.br/).
 
 <img src="assets/terminal.png" width="700" height="auto">
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Usage Example
 
 ```bash
-python -m detector 'facebook'
+python -m detector 'sicoob'
 ```
 
 ## **Legal Disclaimer**
